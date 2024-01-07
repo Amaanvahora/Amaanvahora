@@ -1,14 +1,14 @@
-Hi, i'm [Amaan Vahora](https://amaanvahora.netlify.com/), a full stack web developer who is passionate about what they do and a freelance software engineer. Creating beautiful interfaces to realize my ideas is what drives my passion for software. I give my creations a lot of thought when it comes to their experience, architecture, and code.
+Hi, I'm [Amaan Vahora](https://amaanvahora.netlify.com/), a full-stack web developer who is passionate about what they do and a freelance software engineer. Creating beautiful interfaces to realize my ideas is what drives my passion for software. I give my creations a lot of thought when it comes to their experience, architecture, and code.
 
-I am also an open-source supporter and enthusiast. I learnt a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
+I am also an open-source supporter and enthusiast. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
 
 
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:amaanvahora7294@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -44,11 +44,9 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 my Github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amaanvahora&show_icons=true&theme=gotham" alt="amaanvahora" />
 
 
 
-
-# introduction
