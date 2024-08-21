@@ -1,4 +1,4 @@
-Hi, I'm [Amaan Vahora](https://amaanvahora.netlify.com/), a full-stack web developer who is passionate about what they do and a freelance software engineer. Creating beautiful interfaces to realize my ideas is what drives my passion for software. I give my creations a lot of thought when it comes to their experience, architecture, and code.
+Hi, I'm [Amaan Vahora](https://amaanvahora.com/), a full-stack web developer passionate about what they do and a freelance software engineer. Creating beautiful interfaces to realize my ideas is what drives my passion for software. I give my creations a lot of thought regarding their experience, architecture, and code.
 
 I am also an open-source supporter and enthusiast. I learned a lot from the open-source community, and I admire how open-source facilitates cooperation and information exchange.
 
